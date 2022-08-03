@@ -1,0 +1,4 @@
+1. Decide which business to order from
+Decide which type of pizza to order
+Decide the size of the pizza
+Pay, checkout, and set delivery location
